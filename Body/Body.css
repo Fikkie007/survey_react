@@ -1,0 +1,36 @@
+.body{
+    box-sizing: border-box;
+background: #469AE7;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
+
+.image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 19px
+
+}
+
+.text-break {
+  word-wrap: break-word!important;
+  word-break: break-word!important;
+  margin: 93px 75px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+  }
+
+.box {
+    display: flex;
+  }
+
+.tex-break{
+  margin: 114px 67px
+}
+
+.img-fluid{
+    margin: 36px 235px;
+    border-radius: 18px;
+}
