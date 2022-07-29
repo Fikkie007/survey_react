@@ -1,0 +1,15 @@
+.text{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 0.75rem;
+line-height: 0.938rem;
+
+color: #000000;
+}
+
+.img-visi{
+width: 14.063rem;
+height: 14rem;
+border-radius: 2.5rem;
+}

@@ -1,0 +1,49 @@
+.dropdwon {
+    position: relative;
+    margin: -1px 12px;
+}
+
+.btn{
+    margin: 17px 10px;
+}
+
+.btn-success {
+    color: #000000;
+    background-color: #EDF3F3;
+    border-color: #EDF3F3;
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #469AE7;
+    border-color: #469AE7;
+}
+
+.font-size{
+    font-size: 1 rem;
+
+}
+
+.navbar-expand-lg {
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    margin: -1px 825px;
+}
+
+.logo {
+    vertical-align: middle;
+    margin: -29px -838px;
+}
+
+.search {
+    width: 36px;
+    height: 20px;
+    margin: 18px 382px;
+    position: absolute;
+}
+
+.btn-check:active+.btn-success, .btn-check:checked+.btn-success, .btn-success.active, .btn-success:active, .show>.btn-success.dropdown-toggle {
+    color: #fff;
+    background-color: #469AE7;
+    border-color: "none";
+}
